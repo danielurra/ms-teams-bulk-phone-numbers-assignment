@@ -1,4 +1,4 @@
-# ms-teams-bulk-phone-numbers-assignment
+# MS Teams bulk phone-numbers assignment
 PowerShell Script to Bulk Assign Phone Numbers in Microsoft Teams
 ```powershell
 2
