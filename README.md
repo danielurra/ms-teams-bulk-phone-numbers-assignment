@@ -48,7 +48,7 @@ ForEach ($Row in $CSV) {
 
 ```
 # CSV file example
-<img width="645" height="316" alt="image" src="https://github.com/user-attachments/assets/fa35096b-6216-47dc-9236-d24972fd10b1" />
+<img width="645" height="316" alt="image" src="https://github.com/user-attachments/assets/fa35096b-6216-47dc-9236-d24972fd10b1" /></b>
 # Plain TXT view
 <img width="504" height="201" alt="image" src="https://github.com/user-attachments/assets/1fb58d49-f970-46f7-97b5-f7dbe3531358" />
 
